@@ -26,4 +26,3 @@
 - /api/posts/{username}/{slug} (GET)
 - /api/posts/{postId}/comments (GET, POST)
 - /api/comments/{commentId} (PUT, DELETE)
-
